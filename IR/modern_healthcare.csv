@@ -1,0 +1,6 @@
+visit_id,arrival_time,triage_category,chief_complaint,vital_signs_summary,initial_assessment
+V1001,2025-11-14 08:32,Category 2,Acute chest pain radiating to left arm,"BP 162/98 mmHg, HR 104 bpm, SpO2 95% on room air","Suspected acute coronary syndrome; obtain ECG and cardiac enzymes urgently."
+V1002,2025-11-14 09:05,Category 3,Shortness of breath and wheezing,"BP 138/84 mmHg, HR 96 bpm, RR 22/min, SpO2 92% on room air","Known asthma; administer inhaled bronchodilator and reassess."
+V1003,2025-11-14 09:40,Category 4,Mild headache and low-grade fever,"BP 122/76 mmHg, HR 88 bpm, Temp 37.8°C","Likely viral infection; no red flags, symptomatic treatment planned."
+V1004,2025-11-14 10:15,Category 2,Sudden onset weakness of right arm,"BP 150/90 mmHg, HR 82 bpm, SpO2 98% on room air","Possible acute stroke; activate stroke protocol and arrange urgent imaging."
+V1005,2025-11-14 10:55,Category 5,Minor laceration to forearm,"BP 118/72 mmHg, HR 74 bpm, SpO2 99% on room air","Superficial wound; clean, suture if needed, and provide tetanus prophylaxis."
